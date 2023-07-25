@@ -1,0 +1,190 @@
+[
+    {
+        "question": "After a period of instability, I need a quiet and predictable environment.",
+        "negativ": false
+    },
+    {
+        "question": "I need a quiet and predictable environment for me to switch from one task to another easily.",
+        "negativ": false
+    },
+    {
+        "question": "I often struggle to concentrate in busy and/or unpredictable environments.",
+        "negativ": false
+    },
+    {
+        "question": "I find sudden unexpected disruptions to my attention startling.",
+        "negativ": false
+    },
+    {
+        "question": "It's distressing to be unexpectedly pulled away from something I'm engaged in.",
+        "negativ": false
+    },
+    {
+        "question": "I rarely find simultaneously holding eye contact and making a verbal conversation with another person uncomfortable.",
+        "negativ": true
+    },
+    {
+        "question": "I often notice details that others do not.",
+        "negativ": false
+    },
+    {
+        "question": "Involvement in an activity of interest often reduces my anxiety level.",
+        "negativ": false
+    },
+    {
+        "question": "I find social interactions more comfortable if communicating about a topic of interest to me.",
+        "negativ": false
+    },
+    {
+        "question": "I am often totally focused on activities I am passionate about, to the point I am unaware of other events.",
+        "negativ": false
+    },
+    {
+        "question": "I can get quite good at something even if I'm not especially interested in it.",
+        "negativ": true
+    },
+    {
+        "question": "I often lose sense of time when engaging in activities I am passionate about.",
+        "negativ": false
+    },
+    {
+        "question": "I sometimes avoid talking because I cannot reliably predict how others will react, especially strangers.",
+        "negativ": false
+    },
+    {
+        "question": "I tend to do activities because I find them interesting, instead of due to societal expectations.",
+        "negativ": false
+    },
+    {
+        "question": "I rarely find social situations chaotic.",
+        "negativ": true
+    },
+    {
+        "question": "I don't mind if someone interrupts me when I'm in the middle of an activity.",
+        "negativ": true
+    },
+    {
+        "question": "When I'm working on something, I'm open to helpful suggestions.",
+        "negativ": true
+    },
+    {
+        "question": "I often find it difficult to switch topics after engaging in an activity for a long time.",
+        "negativ": false
+    },
+    {
+        "question": "I often engage in activities I am passionate about to escape from anxiety.",
+        "negativ": false
+    },
+    {
+        "question": "Routines provide an important source of stability and safety.",
+        "negativ": false
+    },
+    {
+        "question": "I manage uncertainty by creating routines.",
+        "negativ": false
+    },
+    {
+        "question": "I often experience anxiety over matters I have little certainty over.",
+        "negativ": false
+    },
+    {
+        "question": "I find it difficult to engage in a task of no interest to me even if it is important.",
+        "negativ": false
+    },
+    {
+        "question": "I often find engaging in stimming (e.g., fidgeting, rocking) to be relaxing.",
+        "negativ": false
+    },
+    {
+        "question": "I am usually passionate about a few topics at any one time in my life.",
+        "negativ": false
+    },
+    {
+        "question": "I have trouble filtering out sounds when I am not doing something I'm focused on.",
+        "negativ": false
+    },
+    {
+        "question": "I usually mean what I say and no more than that.",
+        "negativ": false
+    },
+    {
+        "question": "I often engage in lengthy discussions on topics I find interesting even though my conversational partner(s) do not.",
+        "negativ": false
+    },
+    {
+        "question": "I sometimes accidentally say something others find offensive/ rude when I am focused on a task.",
+        "negativ": false
+    },
+    {
+        "question": "I can sometimes be very distressed by a topic that others think of as trivial.",
+        "negativ": false
+    },
+    {
+        "question": "I find it easy to keep up with group discussions where everyone is speaking.",
+        "negativ": true
+    },
+    {
+        "question": "Often when I am focused on activities, I do not notice I am thirsty or hungry.",
+        "negativ": false
+    },
+    {
+        "question": "Often when I am focused on activities, I do not notice I need the bathroom.",
+        "negativ": false
+    },
+    {
+        "question": "When there is a lot of information to consider, I often struggle to make a decision.",
+        "negativ": false
+    },
+    {
+        "question": "Sometimes making a decision is so hard I get physically stuck.",
+        "negativ": false
+    },
+    {
+        "question": "I sometimes focus on an incident for a substantial time (days) after the event.",
+        "negativ": false
+    },
+    {
+        "question": "I sometimes become highly anxious by focusing on the many possible situations that might occur at a future event.",
+        "negativ": false
+    },
+    {
+        "question": "Sometimes when I am focused on an activity, I do not recall all the information I might need to make good decisions.",
+        "negativ": false
+    },
+    {
+        "question": "People tell me I get fixated on things.",
+        "negativ": false
+    },
+    {
+        "question": "I find a problem I can't solve distressing and/or hard to put down.",
+        "negativ": false
+    },
+    {
+        "question": "I tend to feel quite self-conscious unless I'm deeply absorbed in a task.",
+        "negativ": false
+    },
+    {
+        "question": "I often get stuck thinking about all the possibilities that might come out of a decision.",
+        "negativ": false
+    },
+    {
+        "question": "When I am interested in something, I tend to be passionate about it.",
+        "negativ": false
+    },
+    {
+        "question": "When I am interested in a topic, I like to learn everything I can about that topic.",
+        "negativ": false
+    },
+    {
+        "question": "I am still fascinated by many of the things I was interested in when I was much younger.",
+        "negativ": false
+    },
+    {
+        "question": "I rarely find myself getting stuck in loops of thought.",
+        "negativ": true
+    },
+    {
+        "question": "I often loop back to previous thoughts.",
+        "negativ": false
+    }
+]
